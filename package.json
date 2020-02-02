@@ -2,7 +2,8 @@
   "dependencies": {
     "react": "16.8.6",
     "react-dom": "16.8.6",
-    "requirejs": "2.3.6"
+    "requirejs": "2.3.6",
+    "text": "github:requirejs/text"
   },
   "devDependencies": {
     "@types/react": "16.8.0",

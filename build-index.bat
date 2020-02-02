@@ -1,1 +1,2 @@
-node ./node_modules/selling/tools/generate.js > index.html
+call build-tools.bat
+node ./node_modules/selling/tools/generate.js ./config.json > ./bundled/index.html
