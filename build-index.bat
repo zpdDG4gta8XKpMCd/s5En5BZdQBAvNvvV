@@ -1,0 +1,1 @@
+node ./node_modules/selling/tools/generate.js > index.html

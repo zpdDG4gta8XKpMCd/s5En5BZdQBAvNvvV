@@ -1,0 +1,1 @@
+node ./node_modules/typescript/bin/tsc --project ./tools/tsconfig.json --outDir ./node_modules/selling
