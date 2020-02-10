@@ -18,6 +18,6 @@
         "noUnusedParameters": true,
     },
     "exclude": [
-        "static"
+        "tools"
     ]
 }
